@@ -1,0 +1,51 @@
+
+/* reset done */
+
+div .card-header {
+	background-color: #2D5B8D;
+	color: #fff;
+  }
+  .btn{
+	font-size: 15px;
+  }
+  .content img{
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+	
+  }
+  .content{
+	border-bottom: solid 1px #E2E2E2;
+  }
+  .sidebar{
+	width: 22%;  
+	height: 100%; 
+	top: 0; position: 
+	absolute; right: 0 ;
+	font-size: 23px;
+	position: fixed;
+	z-index: 99;
+	display: none;
+
+
+	}
+	div .card-header{
+		padding: 10px 10px 5px 10px;
+	}
+	button .float-right {
+		background-color: #FF6F6F;
+	}
+	.input-group{
+		margin-top: 50px;
+		margin-left: 20px;
+
+	}	
+	.qty {
+		background-color: #eee; 
+		width: 20%;
+		height: 28px;
+	}	
+	.sidebar .button .float-right{
+		margin-right: 10px !important;
+	}
+/*  */
